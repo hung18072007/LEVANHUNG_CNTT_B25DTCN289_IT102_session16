@@ -20,10 +20,11 @@ int main() {
         }
     }
 
-    ketQua[j] = '\0'; // K?t thúc chu?i k?t qu?
+    ketQua[j] = '\0';
 
     printf("Chuoi sau khi xoa ky tu '%c': %s\n", kyTu, ketQua);
 
     return 0;
 }
+
 
